@@ -13,3 +13,7 @@ I work at [iProspect](https://www.iprospect.com) as a director of Systems Admini
 
 - 🔭 I build stuff with [Terraform](https://github.com/hashicorp/terraform) and [Ansible](https://github.com/ansible/ansible).
 - 🎸 As a failed musician, I try to find time to [write music](https://soundcloud.com/mjladd).
+- ✔ I live my life by endless checklists and markdown. 
+
+## 2020 Goals
+Knock out another AWS certification and make a small dent in my exponentially growing TOREAD list. 
