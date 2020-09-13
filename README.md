@@ -12,3 +12,4 @@ I work at [iProspect](https://www.iprospect.com) as a director of Systems Admini
 <a href="https://twitter.com/mjladd"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmjladd%2F" alt="Twitter"></a>
 
 🔭 I build stuff with [Terraform](https://github.com/hashicorp/terraform) and [Ansible](https://github.com/ansible/ansible).
+🎸 As a failed musician, I try to find time to [write music](https://soundcloud.com/mjladd).
