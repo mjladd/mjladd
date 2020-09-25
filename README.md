@@ -17,3 +17,9 @@ I work at [iProspect](https://www.iprospect.com) as a director of Systems Admini
 
 ## 2020 Goals
 Knock out another AWS certification and make a small dent in my exponentially growing TOREAD list. 
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mjladd&count_private=true&bg_color=90,667eea,764ba2&title_color=fff&text_color=fff"
+       alt="mjladd's GitHub stats"
+    />
+</div>
