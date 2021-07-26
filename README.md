@@ -3,7 +3,7 @@
 
 I'm Mike. I like building infrastructure and infrastructure teams. 
 
-I work at [Dentsu](https://dentsu.com) as a director of Systems Administration.  
+I work at [NCSA](https://www.ncsasports.org/) as a director of Data Engineering.  
 
 [Ancient Blog Here](https://mjladd.com).
 
