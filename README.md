@@ -12,17 +12,10 @@ I work at [NCSA](https://www.ncsasports.org/) as a director of Data Engineering.
 - 🔭 I build stuff with [Terraform](https://github.com/hashicorp/terraform) and [Ansible](https://github.com/ansible/ansible), and mostly live in [AWS](https://aws.amazoncom)
 - 🎸 As a failed musician, I try to find time to [write music](https://soundcloud.com/mjladd).
 - ✔ I live my life by endless checklists and markdown.
-- airflow | redshift | dbt
 
 ## 2024 Goals
 
 Learn a whole bunch of new stuff, and make a small dent in my exponentially growing TOREAD list.
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mjladd&count_private=true&bg_color=90,667eea,764ba2&title_color=fff&text_color=fff"
-       alt="mjladd's GitHub stats"
-    />
-</div>
 
 ## Tools
 
