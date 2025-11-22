@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Mike. I like building infrastructure and infrastructure teams. In my new gig, I get to
+I'm Mike. I like building infrastructure and infrastructure teams. In my current gig, I get to
 build instrastructure for data.
 
 I work at [NCSA](https://www.ncsasports.org/) as a director of Data Engineering.
@@ -9,18 +9,21 @@ I work at [NCSA](https://www.ncsasports.org/) as a director of Data Engineering.
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" height="12" /> <a href="https://www.linkedin.com/in/mjladd">https://www.linkedin.com/in/mjladd</a><br>
 
-- 🔭 I build stuff with [Terraform](https://github.com/hashicorp/terraform) and [Ansible](https://github.com/ansible/ansible), and mostly live in [AWS](https://aws.amazoncom)
+- 🔭 I build stuff with [Terraform](https://github.com/hashicorp/terraform) and mostly live in [AWS](https://aws.amazon.com).
+- 🧠 As required, learning lots about AI, I like building out local RAG projects.
+- 🔧 Building out AI agents to run stuff I don't want to have to remember.
 - 🎸 As a failed musician, I try to find time to [write music](https://soundcloud.com/mjladd).
 - ✔ I live my life by endless checklists and markdown.
 
-## 2024 Goals
+## 2026 Goals
 
-Learn a whole bunch of new stuff, and make a small dent in my exponentially growing TOREAD list.
+Take some time to focus on creative work and finish some of my numerous uncompleted music projects.
+
 
 ## Tools
 
-- <img src="images/terraform.svg" width="20" height="20"> | Terraform
-- <img src="images/ansible.svg" width="20" height="20"> | Ansible
-- <img src="images/bash.svg" width="20" height="20"> | Bash
-- <img src="images/github.svg" width="20" height="20"> | Github
-- <img src="images/airflow.jpg" width="20" height="20"> | Airflow
+- 🏗️ | Terraform
+- >_ | Bash
+- 🐙 | GitHub
+- ⛁  | Airflow
+- 🐍 | Python
