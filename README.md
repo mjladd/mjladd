@@ -7,7 +7,7 @@ I work at [NCSA](https://www.ncsasports.org/) as a director of Data Engineering.
 
 [Ancient Blog Here](https://mjladd.com).
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" height="12" /> <a href="https://www.linkedin.com/in/mjladd">https://www.linkedin.com/in/mjladd</a><br>
+🤝 |  <a href="https://www.linkedin.com/in/mjladd">https://www.linkedin.com/in/mjladd</a><br>
 
 - 🔭 I build stuff with [Terraform](https://github.com/hashicorp/terraform) and mostly live in [AWS](https://aws.amazon.com).
 - 🧠 As required, learning lots about AI, I like building out local RAG projects.
