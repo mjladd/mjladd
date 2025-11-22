@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm [Mike](https://www.linkedin.com/in/mjladd}. I like building infrastructure and infrastructure teams. In my current gig, I get to build infrastructure for data.
+I'm [Mike](https://www.linkedin.com/in/mjladd). I like building infrastructure and infrastructure teams. In my current gig, I get to build infrastructure for data.
 
 I work at [NCSA](https://www.ncsasports.org/) as a director of Data Engineering.
 
