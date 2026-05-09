@@ -16,4 +16,4 @@ Doing a deep deep into Kubernetes-land and chipping away at the ever growing TOR
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=aws,ansible,bash,docker,gitlab,kubernetes,linux,py,terraform,&perline=3)]
+[![Tools](https://skillicons.dev/icons?i=aws,bash,docker,gitlab,kubernetes,linux,py,terraform,&perline=4)]
